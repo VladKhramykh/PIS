@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <p id="result">From XHR 15*22 = </p>
+    <script>
+        let xhr = new XMLHttpRequest();
+        let url = 'http://localhost:8078/mul.kvo';
+        let params = 'x=15&y=22';
+        xhr.open('POST', url, true);
+        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+                document.getElementById("result").innerHTML += xhr.responseText;
+            };
+        };
+        xhr.send(params);
+    </script>
+</body>
+</html>

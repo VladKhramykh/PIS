@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8" />
+    <title>WebSocket</title>
+    <script src="modernizr-custom.js"></script>
+    <script>
+        var ta;
+        var ws = null;
+        var bstart;
+        var bstop;
+
+        function exe_start() {
+            if (ws == null) {
+                ws = new WebSocket("ws://localhost:8077/wss.ws");
+                ws.onopen = function () {
+                    ws.send("connecting");
+                }
+                ws.onclose = function (s) {
+                    console.log("close - ", s);
+                }
+                ws.onmessage = function (evt) {
+                    ta.innerHTML += evt.data;
+                }
+                bstart.disabled = true;
+                bstop.disabled = false;
+
+            }
+    
+        }
+
+        function exe_stop() {
+            ws.close(3001, "stopapplication");
+            ws = null;
+            bstart.disabled = false;
+            bstop.disabled = true;
+        }
+
+        window.onload = function () {
+            if (Modernizr.websockets) {
+                WriteMessage("support", "yes");
+                ta = document.getElementById("ta");
+                bstart = document.getElementById("bstart");
+                bstop = document.getElementById("bstop");
+                bstart.disabled = false;
+                bstop.disabled = true;
+            }
+        }
+
+        function WriteMessage(id_span, text) {
+            var span = document.getElementById(id_span);
+            span.innerHTML = text;
+        }
+    </script>
+</head>
+<body>
+    <header><h1>WebSocket</h1></header>
+    <section style="width: 800px; float:left">
+        <div id="wsproperties">
+            WebSocket поддерживается?
+            <span id="support"></span><br />
+        </div>
+    </section>
+    <br />
+    <section style="width: 215px; border: solid">
+        <div style="margin: 5px">
+            <input type="button" id="bstart" value="Start" onclick="exe_start()" style="width: 100px" />
+            <input type="button" id="bstop" value="Stop" onclick="exe_stop()" style="width: 100px" />
+            <textarea id="ta" rows="20" cols="26" style="text-align: center" readonly></textarea>
+        </div>
+    </section>
+</body>
+</html>

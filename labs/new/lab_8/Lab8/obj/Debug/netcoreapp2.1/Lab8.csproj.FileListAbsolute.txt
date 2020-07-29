@@ -1,0 +1,8 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp2.1\Lab8.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp2.1\Lab8.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp2.1\Lab8.AssemblyInfoInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp2.1\Lab8.AssemblyInfo.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp2.1\Lab8.deps.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp2.1\Lab8.runtimeconfig.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp2.1\Lab8.runtimeconfig.dev.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp2.1\Lab8.dll

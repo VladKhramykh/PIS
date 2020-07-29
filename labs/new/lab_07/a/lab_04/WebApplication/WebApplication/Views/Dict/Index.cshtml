@@ -1,0 +1,38 @@
+﻿@*@model IEnumerable<WebApplication.Models.User>*@
+@model IEnumerable<WebApplication.Models.User>
+
+@{
+    ViewBag.Title = "Dict";
+}
+
+<h2>Users</h2>
+<button id="GetBtn"> Get data</button>
+<table class="table" id="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Phone</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+        
+    </tbody>
+</table>
+
+<button type="button" class="btn btn-secondary">
+    @Html.ActionLink("Add", "Create", "Dict")
+</button>
+
+<script type="text/javascript">
+    //const URL_USERS = "http://localhost:61227/Dict/Index"
+
+   
+        $('#GetBtn').click(function (e) {
+            e.preventDefault();
+            $('#tbody').load('@Url.Action("GetAll", "Dict")');
+            alert("ss");
+        })
+   
+</script>

@@ -1,0 +1,13 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.Form1.resources
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.Properties.Resources.resources
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.GenerateResource.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\System.Data.SqlClient.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.CopyComplete

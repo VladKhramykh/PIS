@@ -1,0 +1,2 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_06\WebApplication\DbJsonImpl\JsonImpl\JsonImpl\obj\Debug\JsonImpl.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_06\WebApplication\DbJsonImpl\JsonImpl\JsonImpl\obj\Debug\JsonImpl.csproj.CoreCompileInputs.cache

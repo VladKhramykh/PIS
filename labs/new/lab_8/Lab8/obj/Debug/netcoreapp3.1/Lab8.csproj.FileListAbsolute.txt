@@ -1,0 +1,449 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.Manifest.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.input.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.output.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorCoreGenerate.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cs
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.MvcApplicationPartsAssemblyInfo.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.Views.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\appsettings.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.pdb
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\university\PIS\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.MvcApplicationPartsAssemblyInfo.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.input.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.output.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorCoreGenerate.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cs
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.Views.pdb
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.Manifest.cache
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.xml
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+D:\university\PIS\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\appsettings.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Lab8.Views.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\EntityFramework.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.MvcApplicationPartsAssemblyInfo.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorAssemblyInfo.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.input.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.TagHelpers.output.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorCoreGenerate.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.RazorTargetAssemblyInfo.cs
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.Views.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.Manifest.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\staticwebassets\Lab8.StaticWebAssets.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache

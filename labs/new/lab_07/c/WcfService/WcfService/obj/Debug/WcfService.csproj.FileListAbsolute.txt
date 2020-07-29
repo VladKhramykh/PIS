@@ -1,0 +1,15 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\WcfService.dll.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\WcfService.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\WcfService.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\EntityFramework.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\EntityFramework.SqlServer.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\Newtonsoft.Json.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\EntityFramework.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\EntityFramework.SqlServer.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\Newtonsoft.Json.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\obj\Debug\WcfService.csproj.CopyComplete
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\obj\Debug\WcfService.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\obj\Debug\WcfService.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WcfService\WcfService\bin\System.Data.SqlClient.xml

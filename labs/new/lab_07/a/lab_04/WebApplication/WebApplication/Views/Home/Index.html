@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <h2>Users</h2>
+    <button id="GetBtn"> Get data</button>
+    <table class="table" id="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Phone</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+
+        </tbody>
+    </table>
+</div>
+
+<div id="createContainer">
+    <h2>Create</h2><hr />
+
+        <div class="form-group">
+            <label for="inputName">Name</label>
+            <input type="text" class="form-control" id="addName" name="Name">
+        </div>
+        <div class="form-group">
+            <label for="inputAddress">Phone number</label>
+            <input type="text" class="form-control" id="addPhoneNumber" name="PhoneNumber">
+        </div>
+        <input type="button" id="submitCreateBtn" value="Create" class="btn btn-default" />
+</div>
+
+<div id="updateContainer" hidden>
+    <h2>Update</h2><hr />
+    <div class="form-group">
+        <label for="inputId">Id</label>
+        <input type="text" class="form-control" id="updateName" name="Id" disabled />
+    </div>
+    <div class="form-group">
+        <label for="inputName">Name</label>
+        <input type="text" class="form-control" id="updatePhoneNumber" name="Name" />
+    </div>
+    <div class="form-group">
+        <label for="inputAddress">Phone number</label>
+        <input type="text" class="form-control" id="inputAddress" name="PhoneNumber" />
+    </div>
+    <input type="button" id="submitUpdBtn" value="Update" class="btn btn-default" />
+</div>
+
+<script src="~/Scripts/main.js"></script>

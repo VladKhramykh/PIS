@@ -1,0 +1,55 @@
+﻿@model WebApplication.Models.User
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2><hr />
+    <div class="form-group">
+        <label for="inputId">Id</label>
+        <input type="text" class="form-control" id="inputId" name="Id" disabled value="@Html.DisplayFor(item => item.Id)">
+    </div>
+    <div class="form-group">
+        <label for="inputName">Name</label>
+        <input type="text" class="form-control" id="inputName" name="Name" value="@Html.DisplayFor(item => item.Name)">
+    </div>
+    <div class="form-group">
+        <label for="inputAddress">Phone number</label>
+        <input type="text" class="form-control" id="inputAddress" name="PhoneNumber" value="@Html.DisplayFor(item => item.PhoneNumber)">
+    </div>
+    <input type="button" id="submitUpdBtn" value="Update" class="btn btn-default" />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script>
+    $('submitUpdBtn').click(function (e) {
+        e.preventDefault();
+        let Name = $('#name')[0].value;
+        let PhoneNumber = $('#PhoneNumber')[0].value;
+        let user = {
+            Name: Name,
+            PhoneNumber: PhoneNumber
+        };
+        if (Name != "" && PhoneNumber != "") {
+           $.ajax({
+                type: "PUT",
+                url: "@Url.Action("Update", "Dict")",
+                dataType: "json",
+                data: user,
+                cache: false,
+                success: function(d) {
+                    if (d.result) {
+                        window.location.assign("/Dict");
+                    } else { 
+                        console.log('do something constructive with the error here...');
+                    }
+                },
+                error: function(xhr, textStatus, errorThrown) {
+                    // TODO: Show error
+                }
+            });            
+        } else {
+            alert("Заполните поля");
+        }
+    })
+</script>
